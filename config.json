@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfetch",
+        "uuid": 2164592,
+        "checksum": "7atu9b"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
